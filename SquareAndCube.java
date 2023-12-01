@@ -1,18 +1,9 @@
-
-
-
-
 //PROGRAM TO CALCULATE SQUARES AND CUBES OF NUMBERS
-//NAME: 
-//REG NO:
-//DEPT: 
-//SERIAL NO: 
-//GROUP NO: 
 //DATE: 20/09/2021
-package phygp1;
+package squareandcube;
 import javax.swing.JOptionPane;
 
-public class PHYGP1 {
+public class SquareAndCube {
     public static void main(String[] args) {
 	System.out.println("S/N \t number\t square\t cube\n");
 	float z, z1, c = 0.0f;
@@ -30,4 +21,3 @@ public class PHYGP1 {
             return  x*x*x;
     }
 }
-
